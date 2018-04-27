@@ -12,7 +12,7 @@ namespace InitualizeOPPCshrpMarch1418
         public class Dog
         {
 
-            // hellllllllop
+            
 
             private string name, color;
             private int age;
