@@ -9,9 +9,7 @@ namespace bills2April2618
 {
     class Program
     {
-        
-
-
+        //  A light in the Gray
 
         static void Main(string[] args)
         {
